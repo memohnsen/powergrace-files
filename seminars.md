@@ -1,5 +1,6 @@
 ---
 title: Seminar Ideas
+description: ideas
 ---
 
 - Building remote team
