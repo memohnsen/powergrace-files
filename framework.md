@@ -1,5 +1,6 @@
 ---
 title: Event Operations Framework
+description: framework
 ---
 
 # Goals: 
