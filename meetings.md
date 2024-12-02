@@ -1,3 +1,7 @@
+---
+title: P&G Meeting Notes
+---
+
 ### 10/3
 - Finals coaches
 - Finals schedule
