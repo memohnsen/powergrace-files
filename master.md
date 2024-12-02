@@ -1,3 +1,7 @@
+---
+title: Master
+---
+
 - [[Event Operations Framework]]
 - [[Seminar Ideas]]
 - [[Meet Planner Template]]
