@@ -1,3 +1,7 @@
+---
+title: Onboarding
+---
+
 - Slack
 - TrainHeroic/Metric VBT
 - Schedule call
