@@ -1,5 +1,6 @@
 ---
 title: Programming Principles
+description: principles
 ---
 
 1. Constraint-led
