@@ -1,3 +1,7 @@
+---
+title: Event Operations Framework
+---
+
 # Goals: 
 - Bring athletes together
 - Benefit the weightlifting community
