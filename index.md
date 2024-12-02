@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Site
+# Power & Grace Performance: Maddisen
 
 Here are my Markdown files:
 
