@@ -1,5 +1,6 @@
 ---
 title: P&G Meeting Notes
+description: meeting
 ---
 
 ### 10/3
