@@ -1,3 +1,7 @@
+---
+title: Programming Principles
+---
+
 1. Constraint-led
 2. Autoregulation-based
 3. Skill Requires Stimulus
