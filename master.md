@@ -1,5 +1,6 @@
 ---
 title: Master
+description: master
 ---
 
 - [[Event Operations Framework]]
