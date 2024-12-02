@@ -1,5 +1,6 @@
 ---
 title: Meet Planner Template
+description: template
 ---
 
 - [ ] Reserve Airbnb: 4-6 months out
