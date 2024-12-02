@@ -1,5 +1,6 @@
 ---
 title: Onboarding
+description: onboarding
 ---
 
 - Slack
