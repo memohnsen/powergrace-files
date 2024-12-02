@@ -1,3 +1,7 @@
+---
+title: Meet Planner Template
+---
+
 - [ ] Reserve Airbnb: 4-6 months out
 - [ ] Decide coaches going: 4-6 months out
 - [ ] Brainstorm: 4 months out
