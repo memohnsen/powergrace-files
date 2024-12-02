@@ -1,3 +1,7 @@
+---
+title: Seminar Ideas
+---
+
 - Building remote team
 - Competition coaching and national meet considerations
 - Injury prevention and rehab
